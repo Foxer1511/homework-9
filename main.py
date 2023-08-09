@@ -30,5 +30,5 @@ with open("text_1.txt", "r") as test_file:
     for i in range(len(text_v1)):
         r += 1
     print(f"{r} слів у першому тексті")
-
+#!!!
 
